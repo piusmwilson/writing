@@ -153,7 +153,7 @@ Software testing concentrates on finding the bugs, defects, and errors within th
 * Poor or no Software Quality Assurance practices can lead to releasing bad quality software which is a risk for businesses & freelance Software Engineers for many reasons like; - the cost of fixing defects/bugs increases with every step of software development thus the later it is discovered, the more expensive it is to fix. 
 
 # Conclusion
-Due to its importance in within the Software Development Life Cycle when it comes to checking a software product being developed to verify and ensure it meets the desired requirements, quality measures, and set industry standards, Software Quality Assurance is a must-have for any business in software development, whether it’s for day-to-day operations or a product for consumers.
+Due to its importance within the Software Development Life Cycle when it comes to checking a software product being developed to verify and ensure it meets the desired requirements, quality measures, and set industry standards, Software Quality Assurance is a must-have for any business in software development, whether it’s for day-to-day operations or a product for consumers.
 
 # Reference
 * [Quality Assurance, Quality Control, and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/).
