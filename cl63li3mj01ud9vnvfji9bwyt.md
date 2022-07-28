@@ -3,7 +3,7 @@
 # Background
 Software engineering teams are the key to good software although its quality isn’t always guaranteed right away. 
 
-Apart from the expertise of the software engineering team, the quality of software can be assured through a set of dedicated quality management activities such as **quality assurance**, **quality control**, and **testing** often done by SQA Teams e.g., testers & software quality Assurance Engineers among others. And this is where Software Quality Assurance comes in.
+Apart from the expertise of the software engineering team, the quality of software can be assured through a set of dedicated quality management activities such as **quality assurance**, **quality control**, and **testing** often done by SQA Teams e.g., testers & software quality Assurance Engineers among others. And this is where [Software Quality Assurance](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) comes in.
 
 # Introduction
 Software Quality Assurance (SQA) is a set of tools, practices, and processes applied with the purpose of discovering, validating, verifying, monitoring, and evaluating a piece of software in order to ensure its quality. SQA often times spreading through all of the software development phases depending on the team, industry or practices being followed.
@@ -19,7 +19,7 @@ Look at quality control as being a subset of quality assurance and software test
 # Software Quality
 Software quality is the process of conforming to explicitly stated functional and performance requirements, documented development standards, and implicit characteristics when developing software products.
 
-It measures how well the software is designed (quality of design), and how well the software conforms to that design (quality of conformance). It’s often described as the ‘fitness for purpose’ of a piece of software and its desirable attributes. 
+It measures how well the software is designed (quality of design), and how well the software conforms to that design (quality of conformance). It’s often described as the ‘fitness for purpose of a piece of software and its desirable attributes. 
 
 It’s important to note that software requirements are the foundation/benchmark from which quality is measured and specified requirements and set industry standards define the development criteria that guide the manner in which software is developed/engineered.
 
@@ -37,7 +37,7 @@ Is simply the degree of conformance to explicit or implicit requirements and exp
 # How is Quality Determined by Software Quality Assurance Teams?
 There are two main approaches when it comes to quality assurance: the quality attributes approach and the defect management approach. 
 
-Defect management approach in Software quality assurance helps track defects which are assigned categories based on the rank of severity of each defect. 
+Defect management approach in Software quality assurance helps track defects which are assigned categories based on the rank of the severity of each defect. 
 
 The quality attributes approach in Software Quality assurance focuses on six main quality attributes as a measure of performance (measurable indicators) to determine the quality of a product. These are; —
 
@@ -59,7 +59,7 @@ Software Quality Assurance (SQA) is a systematic process used to determine wheth
 The purpose of Software Quality Assurance, or SQA, is to make sure your software meets the required quality standards, including functioning, performance, and security. Although the term may sound very technical, it can directly affect your business. Bad quality software lowers the efficiency of the users and rises maintenance costs.
 
 # Who Is Responsible for Software Quality Assurance?
-Even though everyone in a software development team is responsible for software quality assurance, a software Quality Assurance Engineer should constantly question parts of the software development process to ensure the team is not only building the right product but also building it correctly. 
+Even though everyone in a software development team is responsible for software quality assurance, a Software Quality Assurance Engineer should constantly question parts of the software development process to ensure the team is not only building the right product but also building it correctly. 
 
 An individual in this role can have many titles including QA engineer or QA analyst, Software QA Consultant, Software engineer in test, or Tester, Quality Assurance Analyst (QA Analyst), Quality Assurance Engineer (QA Engineer), Software Quality Assurance Engineer (SQA Engineer), Software Quality Engineer, Quality Assurance Director (QA Director), Software Quality Engineer, Product Assurance Engineer, and Software Test Engineer.
 
@@ -130,7 +130,7 @@ This principle says that trying to repeat the same test cases, repeatedly, will 
 It is necessary to rethinking your test approach, review the test cases regularly and add or update them to find more bugs/defects.
 
 ## Testing is context dependent.
-There is no one-strategy-fits-all in software testing but rather testing approach depends on the context of the software we develop. We do test the software differently in different contexts. Different types of software need to perform different types of testing.
+There is no one-strategy-fits-all in software testing rather testing approach depends on the context of the software we develop. We do test the software differently in different contexts. Different types of software need to perform different types of testing.
 
 ## Absence of errors-fallacy.
 It is a common belief in the software engineering space that a low defect rate implies the software product okay and the software project is a success which is an absence-of-errors delusion.
@@ -159,7 +159,8 @@ Due to its importance within the Software Development Life Cycle when it comes t
 * [Quality Assurance, Quality Control, and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/).
 
 # Additional Reading
-* [Software Engineering: A Business Technology Enthusiast beginner's guide](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide)
+* [Software Engineering: A Business Technology Enthusiast beginner's guide](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide).
+* [Software Quality Assurance: Beyond the Basics](https://piusmwilson.com/software-quality-assurance-beyond-the-basics).
 * [On Being a Great Product Manager](https://piusmwilson.com/on-being-a-great-product-manager).
 * [Reflecting on The 10 commandments of Egoless programming.](https://piusmwilson.com/reflecting-on-the-10-commandments-of-egoless-programming).
 * [The Struggles of a Junior Software Developer](https://piusmwilson.com/the-struggles-of-a-junior-software-developer)
