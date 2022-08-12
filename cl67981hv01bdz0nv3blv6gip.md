@@ -74,4 +74,4 @@ At the end of this book, you should know enough about intellectual Property to e
 * [Uganda Registration Services Bureau](https://ursb.go.ug/).
 * [Uganda Registration Services Bureau: Intellectual Property](https://ursb.go.ug/intellectual-property).
 * [WIPO Academy](https://www.wipo.int/academy/en/).
-*[WIPO Standards Handbook](https://www.wipo.int/standards/en/).
+* [WIPO Standards Handbook](https://www.wipo.int/standards/en/).
