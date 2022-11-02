@@ -1,9 +1,11 @@
 # blogposts
-#### All my blogs from [medium](https://piusmwilson.medium.com/), [Hashnode](https://hashnode.com/@piusmwilson) and [DevCommunity](https://dev.to/piusmwilson).
+#### My blogs from [Hashnode](https://piusmwilson.com/).
 
-I am an IT Engineer, with a deep enthusiasm for business technology development, professional growth, community outreach and meaningful connections. I value myself on having a sound technical background, built on a foundation of personal discipline and a goals-driven work ethic to take on assigned responsibilities while easily adapting to new roles.
 
-My articles are centred around blogging, technical writing and storytelling and I value all feedback from my valued readers. I mostly write about Technology, African oral tradition (focusing mostly on Ugandan History), [Book Reviews](https://www.goodreads.com/piusmwilson), Rotary and personal opinions on life.
+An IT Engineer, deeply enthusiastic about meaningful professional growth, Deep conversations, Community outreach, and Books among other things.
+Available for;—Business Technology Consultancy, Software Project Management, and Technical Writing.
+
+My articles are centred around Business Technology, African Oral Literature storytelling (especially Ugandan History), [Book Reviews](https://www.goodreads.com/piusmwilson), Rotary and lifestyle.
 
 You can check out my other social forums via [LinkedIn](https://www.linkedin.com/in/piusmwilson/), [Personal Twitter](https://twitter.com/piusmwilson), [Books Review & Recommendations disccusions [Goodreads](https://www.goodreads.com/piusmwilson), And Instagram,- [Personal](https://www.instagram.com/piusmwilson/)
 Cheers!
