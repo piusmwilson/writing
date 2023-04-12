@@ -23,7 +23,7 @@ This is achieved by incorporating software development processes starting from d
 
 # **Who is a Software Quality Assurance Engineer(SQA)?**
 
-A Software Quality Assurance Engineer is the human resources who carries out software quality Assurance in the software development process to ensure the quality of the final product.
+A Software Quality Assurance Engineer is the human resource who carries out software quality Assurance in the software development process to ensure the quality of the final product.
 
 This can include processes such as requirements gathering and documentation, source code control, code review, change management, configuration management, release management, and the actual testing of the software among other things.
 
