@@ -21,11 +21,14 @@ SQA stretches through all software development phases depending on the team, ind
 
 This is achieved by incorporating software development processes starting from defining requirements to coding until release/launch where the key goal is to ensure the quality of the software product.
 
-# **Who is a Software Quality Assurance Engineer(SQA)?**
+# **Who is a Software Quality Assurance(SQA) Engineer?**
 
-A Software Quality Assurance Engineer is the human resource who carries out software quality Assurance in the software development process to ensure the quality of the final product.
+An SQA Engineer carries out Software Quality Assurance in the software development process to ensure the quality of the final product.
 
-This can include processes such as requirements gathering and documentation, source code control, code review, change management, configuration management, release management, and the actual testing of the software among other things.
+This can include processes like;— 
+* Requirements gathering and documentation.
+* Change, Configuration & Release management, 
+* source code control, review, and the actual testing of the software among other things.
 
 #### Software Quality Assurance roles/titles in the business technology industry include;- 
 * Quality Assurance Analyst (QA Analyst), 
@@ -37,77 +40,37 @@ This can include processes such as requirements gathering and documentation, sou
 * Product Assurance Engineer, 
 * Software Test Engineer.
 
-# **Core skills needed for becoming a good QA engineer**
+# **Skills & Qualities of good SQA Engineers**
 
-#### **Attention to detail**
-
-The role of a QA engineer involves being detail-oriented and thorough to spot issues or discrepancies in quality standards set for the product.
-
-#### **Good communication**
-
-QA engineers will be communicating with stakeholders, management, and developers for the product. Effective and clear communication between all parties involved is really important for the development process of a product.
-
-#### **Good time management**
-
-Since a QA engineer will have to balance multiple tasks throughout the day, it is important to have strong time management skills to ensure that you stay productive and can meet your deadlines.
-
-#### **Problem-solving skills**
-
-Throughout the life cycle of a product, issues will arise. QA engineers must have strong problem-solving skills and can develop a plan to solve those issues.
-
-#### **Strong listening skills**
-
-A good QA engineer not only needs to be able to communicate but also listen to their development team, management, and stakeholders to ensure the successful launch of the product.
-
-#### **The ability to write a test plan**
-
-A test plan is a document detailing the objectives and testing processes that will be applied to the software product. QA engineers will work with other developers and stakeholders to develop this testing strategy.
-
-#### **An understanding of test automation tools and manual testing practices**
-
-It is helpful for QA engineers to be familiar with different automated testing tools like Selenium. They will also need to know how to effectively manually test products to identify bugs.
-
-#### **Strong understanding of the Software Development Life Cycle**
-
-A good QA engineer should understand the full life cycle of software products to effectively plan and test them.
-
-# **Other Qualities good Software Quality Assurance Engineers and Testers Should have.**
-
-#### **Problem Sensitivity**
-
-The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem.
-
-#### **Deductive Reasoning**
-
-The ability to apply general rules to specific problems to produce answers that make sense.
-
-#### **Inductive Reasoning**
-
-The ability to combine pieces of information to form general rules or conclusions (including finding a relationship among seemingly unrelated events).
-
-#### **Written Comprehension**
-
-The ability to read and understand information and ideas presented in writing.
-
-#### **Oral Comprehension**
-
-The ability to listen to and understand information and ideas presented through spoken words and sentences.
-
-#### **Oral Expression**
-
-The ability to communicate information and ideas in speaking so others will understand.
-
-#### **Written Expression**
-
-The ability to communicate information and ideas in writing so others will understand.
+#### **Attention to detail & Near Vision**
+The role of an SQA Engineer involves being thorough and detail-oriented (the ability to see details at close range) in order to spot issues or discrepancies in quality standards set for the product.
 
 #### **Information Ordering**
+SQA Engineers should be able to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, and mathematical operations).
 
-The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
+#### **Inductive & Deductive Reasoning**
+SQA Engineers should have the ability to combine pieces of information to form general rules or conclusions (including finding a relationship among seemingly unrelated events) as well as apply general rules to specific problems to produce answers that make sense.
 
-#### **Near Vision**
+#### **Problem Sensitivity & solving skills**
+Throughout the life cycle of a product, issues will arise. SQA Engineers should have the ability to tell/recognize when something is wrong or is likely to go wrong accompanied by strong problem-solving skills as well as developing plans to solve those issues.
 
-The ability to see details at close range (within a few feet of the observer).
+#### **Written Comprehension & Expression**
+SQA Engineers should have the ability to read and understand information or ideas presented in writing as well as communicate information and ideas in writing for team members to understand.
+
+#### **Good listening & strong communication skills(Oral Comprehension & Expression)**
+Good SQA Engineers should be able to listen and understand information and ideas presented through spoken words and also be effective speakers since they are required to communicate with all parties involved(stakeholders, management, and developers) throughout the development process of a product.
+
+#### **Good time management**
+Since SQA Engineers have to balance multiple tasks throughout the day, it is important to have strong time management skills to ensure productivity and meet key deadlines and milestones.
+
+#### **The ability to write test plans**
+A test plan is a document detailing the objectives and testing processes that will be applied to the software product. SQA Engineers work with other developers and stakeholders to develop this testing strategy.
+
+#### **An understanding of test automation tools and manual testing practices**
+It is helpful for SQA Engineers to be familiar with different automated testing tools as well as how to effectively test products to identify bugs.
+
+#### **Strong understanding of the Software Development Life Cycle**
+A good SQA engineer should understand the full life cycle of software products to effectively plan and test them.
 
 # **What SQA Engineers do.**
 
@@ -140,7 +103,6 @@ The ability to see details at close range (within a few feet of the observer).
 * Monitor bug resolution efforts and track successes by creating or maintaining databases of known test defects.
 
 * Evaluate or recommend software for testing, bug tracking and also coordinate user or third-party testing.
-
 
 # **Some SQA Engineer’s best practices**
 
