@@ -5,8 +5,8 @@ seoDescription: "Why big tech companies have huge budgets for hiring Quality Sof
 datePublished: Tue Apr 11 2023 14:00:24 GMT+0000 (Coordinated Universal Time)
 cuid: clgcby3ia000509jvd66m18se
 slug: on-being-a-good-software-quality-assurance-engineer
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678696822632/e1527298-8649-4037-a2a8-6cd391281752.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678696931844/0127675a-e0b2-4b11-b435-d22c8c7c9d37.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681706199019/9a036387-1123-46a5-85c4-ee894167a71a.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681706367508/9fa898c5-acdb-47fe-9eb9-a5de18e5ee77.jpeg
 tags: software-engineering, software-engineer, piusmwilson, software-quality-assurance, sqa
 
 ---
@@ -15,9 +15,9 @@ tags: software-engineering, software-engineer, piusmwilson, software-quality-ass
 
 **Software Quality Assurance (SQA)** is a set of tools, practices, and processes applied to discover, validate, verify, monitor, and evaluate a piece of software to ensure its quality. 
 
-SQA stretches through all software development phases depending on the team, industry, or practices being followed.
+SQA stretches through all software development phases depending on the team, industry, or practices being followed and should not be confused with software testing. —Testing is a big part of **Software Quality Assurance**, but it is not, by any means, the only part of it.
 
-SQA should not be confused with software testing. Testing is a big part of **Software Quality Assurance**, but it is not, by any means, the only part of it. The purpose of SQA is to make sure that all software engineering processes are monitored and comply with defined standards.
+ The purpose of SQA is to make sure that all software engineering processes are monitored and comply with defined standards.
 
 This is achieved by incorporating software development processes starting from defining requirements to coding until release/launch where the key goal is to ensure the quality of the software product.
 
