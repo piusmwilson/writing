@@ -74,9 +74,9 @@ A good SQA engineer should understand the full life cycle of software products t
 
 # **What SQA Engineers do.**
 
-* SQA Engineers participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems as well as conduct software compatibility tests with programs, hardware, operating systems, or network environments.
+When software problems and their causes are identified, SQAs are often tasked with the design, development, and execution of software test plans, scripts, and testing programs among other things:—
 
-* When software problems and their causes are identified, SQAs are often tasked with the design, developing, and executing of software test plans, scripts, and testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.
+* SQA Engineers participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems as well as conduct software compatibility tests with programs, hardware, operating systems, or network environments.
 
 * SQA Engineers occasionally plan test schedules or strategies in accordance with project scope or delivery dates and test system modifications to prepare for implementation or even install, maintain, or configure software production, training & UAT environments to allow testing of software performance and acceptance.
 
@@ -86,11 +86,11 @@ A good SQA engineer should understand the full life cycle of software products t
 
 * SQA Engineers can also investigate customer problems referred by technical support and collaborate with field staff or customers to evaluate or diagnose these problems and recommend possible solutions.
 
-* SQA Engineers will sometimes monitor program performance, identify program deviance from standards, and suggest modifications to ensure compliance, efficiency, and problem-free operations.
-
 * SQA Engineers will be part of a team that monitors bug resolution efforts and track successes by creating or maintaining databases of known test defects as well as performing initial debugging procedures by reviewing configuration files, logs, or code pieces to determine the breakdown source. 
 
-* SQA Engineers identify, analyze, document, and report software defects, using a bug-tracking system, to software developers as well as documenting test procedures to ensure replicability and compliance with standards. And where necessary they will develop or specify standards, methods, or procedures to determine product quality or release readiness.
+* SQA Engineers will sometimes monitor program performance, identify program deviance from standards, and where necessary develop or specify standards, methods, or procedures for efficiency, and problem-free operations to determine product quality or release readiness or suggest modifications to ensure compliance. 
+
+* SQA Engineers can also analyze, and document test procedures to ensure replicability and compliance with standards. 
 
 # **Some SQA Engineer’s best practices**
 
