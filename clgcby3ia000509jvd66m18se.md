@@ -46,10 +46,10 @@ This can include processes like;—
 The role of an SQA Engineer involves being thorough and detail-oriented (the ability to see details at close range) in order to spot issues or discrepancies in quality standards set for the product.
 
 #### **Information Ordering**
-SQA Engineers should be able to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, and mathematical operations).
+SQA Engineers should be able to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, or mathematical operations).
 
 #### **Inductive & Deductive Reasoning**
-SQA Engineers should have the ability to combine pieces of information to form general rules or conclusions (including finding a relationship among seemingly unrelated events) as well as apply general rules to specific problems to produce answers that make sense.
+SQA Engineers should be able to combine pieces of information to form general rules or conclusions (including finding a relationship among seemingly unrelated events) as well as apply general rules to specific problems to produce answers that make sense.
 
 #### **Problem Sensitivity & solving skills**
 Throughout the life cycle of a product, issues will arise. SQA Engineers should have the ability to tell/recognize when something is wrong or is likely to go wrong accompanied by strong problem-solving skills as well as developing plans to solve those issues.
