@@ -32,43 +32,53 @@ It is a must-read piece for developers, Software Engineers, IT Project Managers,
 
 Today’s ever-growing technology space is continually being dominated by more developers & technical thinkers/practitioners than ordinary personnel which is a big reason why more than ever the *“*[*10 commandments of Egoless programming*](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)*”* should be the moral guide for all those seeking to solidify a career in software development/engineering and other applications or system development related endeavors. So let’s look at them.
 
-### Understand and Accept That You Will Make Mistakes.
+1. ### Understand and Accept That You Will Make Mistakes.
+    
 
 The point is to find them early before they make it into production. Except for a few incidences, mistakes are rarely fatal in our industry. Therefore, we can, and should, learn, laugh, and move on.
 
-### You Are Not Your Code
+1. ### You Are Not Your Code
+    
 
 Remember that the entire point of a review is to find problems, and problems will be found. Don’t take it personally when one is uncovered.
 
-### No Matter How Much “Karate” You Know, Someone Else Will Always Know More.
+1. ### No Matter How Much “Karate” You Know, Someone Else Will Always Know More.
+    
 
 Such an individual can teach you some new moves if you ask. Seek and accept input from others, especially when you think it’s not needed.
 
-### Don’t Write Code Without Consultation.
+1. ### Don’t Write Code Without Consultation.
+    
 
 There’s a fine line between “fixing code” and “rewriting code.” Know the difference, and pursue stylistic changes within the framework of a code review, not as a lone enforcer.
 
-### Treat people who know less than you with respect, deference & patience.
+1. ### Treat people who know less than you with respect, deference & patience.
+    
 
 Nontechnical people who deal with developers regularly almost universally hold the opinion that we are prima donnas at best and crybabies at worst. Don’t reinforce this stereotype with anger and impatience.
 
-### The only constant in the world is change.
+1. ### The only constant in the world is change.
+    
 
 Be open to it and accept it with a smile. Look at each change to your requirements, platform, or tool as a new challenge, not as some serious inconvenience to be fought.
 
-### The only true authority stems from knowledge, not from position.
+1. ### The only true authority stems from knowledge, not from position.
+    
 
 Knowledge engenders authority, and authority engenders respect — so if you want respect in an egoless environment, cultivate knowledge.
 
-### Fight for what you believe, but gracefully accept defeat.
+1. ### Fight for what you believe, but gracefully accept defeat.
+    
 
 Understand that sometimes your ideas will be overruled. Even if you do turn out to be right, don’t take revenge or say, “I told you so” more than a few times at most, and don’t make your dearly departed idea a martyr or rallying cry.
 
-### Don’t be the guy in the room.
+1. ### Don’t be the guy in the room.
+    
 
 Please do not be the guy coding in the dark office emerging only to buy cola. The guy in the room is out of touch, out of sight, and out of control and has no place in an open, collaborative environment.
 
-### Critique code instead of people.
+1. ### Critique code instead of people.
+    
 
 Be kind to the coder, not to the code. As much as possible, make all of your comments positive and oriented to improving the code. Relate comments to local standards, program specs, increased performance, etc.
 
