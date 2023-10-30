@@ -7,6 +7,6 @@ Available for;—Business Technology Consultancy, Software Project Management, a
 
 You can check out my other social forums via [LinkedIn](https://www.linkedin.com/in/piusnmuhumuza/), [Personal Twitter](https://twitter.com/piusnmuhumuza), [Books Review & Recommendations discussions [Goodreads](https://www.goodreads.com/piusnmuhumuza), And Instagram,- [Personal](https://www.instagram.com/piusnmuhumuzaa/)
 Cheers!
-### Keywords
+### Tags
 
 <code>Technical Writing</code> <code>Project Management</code> <code>Business Technology</code> <code>Business Process Management | Optimzation | Improvement</code> <code>Book Reviews</code> <code>Intellectual Property Management</code> <code>Business Analysis</code> 
