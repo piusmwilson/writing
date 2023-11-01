@@ -8,7 +8,7 @@ slug: the-10-commandments-of-egoless-programming
 canonical: https://medium.com/@piusnmuhumuza/reflecting-on-the-10-commandments-of-egoless-programming-1bc4189e32f
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698155942220/ce3dcff7-9003-4357-90a8-6360cc215b90.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698155857727/ad7e441d-d081-48b1-a9a1-fe9b14783d96.webp
-tags: programming-blogs, software-engineering, technical-writing-1, egoless-programming, techenthusiasts
+tags: programming-blogs, developer, software-engineering, egoless-programming, techenthusiasts
 
 ---
 
