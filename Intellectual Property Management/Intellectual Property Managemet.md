@@ -6,6 +6,18 @@ This IP Resource aims to provide an in-depth examination of all fields of intell
 
 This resources is designed to equip young professionals with the necessary skills to enable them to play a leading role in promoting the tea­ching, use, and protection of intellectual property.
 
+This Intellectual Property Management Resource is designed for professionals from diverse backgrounds who want to gain a comprehensive understanding of Intellectual Property laws, rights, and strategies.
+
+The following professionals will gain the most benefit from this training:
+
+Licensing Managers
+Lawyers
+Intellectual Property Managers
+R&D Managers and Scientists
+Innovators and Inventors
+Product Managers and Designers
+Marketing and Branding Specialists
+
 
 ### The World Intellectual Property Organization (WIPO)
 
@@ -39,24 +51,5 @@ The MIP Programme's main objectives are to:
 * Support IP teaching and research for enthusiast, learner in institutions of Higher Learning or IP experts looking for information resources.
 * be part of the Promotion of IP systems in Africa.
 
-### STRUCTURE OF INTELLECTUAL PROPERTY MANAGEMENT
-
-* History of Intellectual Property
-* Intellectual property | An Introduction
-* Patent Drafting
-* Patents
-* Trademarks, Industrial Designs and Geographical Indications
-* Patents and Utility Models
-* Industrial Designs
-* Branding (Trademarks)
-* Branding (Geographical Indications and Unfair Competition)
-* Copyright and Related Rights
-* IP and Public Health, Food Security and Biotechnology
-* Traditional Knowledge, Folklore and Genetic Resources
-* IP, Small and Medium Sized Enterprises and IP management
-* IP asset management, Strategic Planning, Technology transfer, Licencing and Artificial Intelligence
-* Innovation and Entrepreneurship
-* Enforcement of Intellectual Property Rights
-* Practical Training at ARIPO
 
 ### Resourceful References
