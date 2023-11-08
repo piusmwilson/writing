@@ -4,4 +4,4 @@ This is a collection of storytelling material researched, curated and created fo
 
 ## Keywords
 
-```Storytelling, Folklore, Folktale, Oral History, African Oral Tradition, Public Speaking, Narrating```
+```Storytelling```,```Folklore```,```Folktale```, ```Oral History```, ```African Oral Tradition```, ```Public Speaking```, ```Narrating```
