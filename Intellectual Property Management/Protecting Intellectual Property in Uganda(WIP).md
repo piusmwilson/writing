@@ -32,8 +32,6 @@ As the country aims at industrializing her economy, there is urgent need to addr
 
 ## Enforcement of intellectual property rights in Uganda - Africa.
 
-
-
 ### Reference Source
 
 * [Protecting Intellectual Property, (The 13th October 2023 Last published date.)](https://www.trade.gov/country-commercial-guides/uganda-protecting-intellectual-property)
@@ -41,4 +39,4 @@ As the country aims at industrializing her economy, there is urgent need to addr
 * [A 2015 Research Paper by Lastone Gulume Balyainho on INTELLECTUAL PROPERTY RIGHTS IN UGANDA.](https://www.academia.edu/31572414/INTELLECTUAL_PROPERTY_RIGHTS_IN_UGANDA_AN_ANALYSIS_OF_THE_EFFICACY_OF_THE_INTELLECTUAL_PROPERTY_SYSTEM_IN_THE_PROTECTION_OF_PATENT_RIGHTS)
 * [UCU Intellectual Property Law Journal](https://ucu-ipwatchdog.blogspot.com/)
 * [Intellectual property: the untapped resource for Uganda’s economic growth](https://observer.ug/viewpoint/77794-intellectual-property-the-untapped-resource-for-uganda-s-economic-growth)
-* 
+  
