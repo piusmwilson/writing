@@ -12,7 +12,19 @@ I have included some interesting reading resources i found while research Intell
 
 ## Intellectual Property and Developing Countries
 
+As innovativeness, creativity and industrial development trends continue to emerge in developing economies, issues of Intellectual Property over the years have become more notable than before. In fact, every country is obligated to ensure protection of Intellectual Property nationally issued and those regionally and internationally issued.
+
+Analyzing the efficiency of Uganda’s Intellectual Property Rights System (IPRS) in the protection of Intellectual Property rights in light of the national, regional and international developments to  establish whether the IPRS can sufficiently guarantee the enjoyment and protection of Intellectual Property (IP) rights issued under any relevant authority, and in so doing examine whether Uganda’s Intellectual Property Rights (IPRs) protection standards are in conformity with the regional and world intellectual property rights standards.
+
+An Intellectual Property System (IPS) is aimed at giving reasonable statutory grounding to the moral and economic rights of innovators and creators in their creations as well as the accepted rights of the public in accessing those creations.
+
+This protection heavily relies on the effectiveness of the Intellectual Property System and related policies adopted by the country nationally, regionally and internationally.
+
 ## Intellectual Property in Uganda
+
+The protection of Intellectual Property Rights more so patent rights is aimed at contributing to the promotion and development of technological innovation, and the transfer and dissemination of technology in industrial development. For a country that has had laws on intellectual property protection since 1902, there is more left to be desired in respect to enforcement and protection of patents in Uganda. The stimulation of innovation and invention under the Patent System of the country is still very low. The assessment put forward in this research is not limited to the Industrial Property Act of 2014 because Uganda’s Patent System predates the 2014 Act.
+
+As the country aims at industrializing her economy, there is urgent need to address the persistent issues that continually affect the enforcement and protection of patent rights to earn the confidence of potential investors in the different capital ventures or lines of production and industries.
 
 ## Intellectual Property Rights in Uganda
 
