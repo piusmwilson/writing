@@ -13,7 +13,7 @@
 * Intellectual Property(IP) and small and medium-sized enterprises (SMEs) and large enterprises;
 * Intellectual Property(IP) Awareness and Enforcement of Intellectual Property Rights; as well as unfair competition and antitrust law.
 * Intellectual Property platforms for African Intellectual Property Management enthusiasts include URSB (Uganda) ARIPO (Africa) & WIPO (Global). 
-
+* Enforcement of intellectual property rights in Uganda - Africa.
 
 ### Introduction to Intellectual Property
 
