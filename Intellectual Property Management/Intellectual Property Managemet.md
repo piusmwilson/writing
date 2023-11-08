@@ -44,3 +44,11 @@ The main objectives of this Intellectual Property Management Resource are to:
 This Intellectual Property Management Resource is prepared for and mean't to benefit professionals from diverse backgrounds like Licensing Managers, Lawyers, Creatives, Intellectual Property Managers, R&D Managers and Scientists, Innovators and Inventors, Academics, Project managers, Product Managers and Designers, Marketing and Branding Specialists among others who want to gain a comprehensive understanding of Intellectual Property laws, rights, and strategies.
 
 ### RESOURCEFUL REFERENCES
+
+* [UCU Intellectual Property Law Journal](https://ucu-ipwatchdog.blogspot.com/)
+
+### KEYWORDS:
+
+<code> INTELLECTUAL PROPERTY MANAGEMENT, INTELLECTUAL PROPERTY, PATENTS, COPYRIGHT, DESIGN, TRADEMARKS, 
+GEOGRAPHICAL INDICATIONS, TRADE SECRETS, UNFAIR COMPETITION,
+ RESEARCH AND DEVELOPMENT, TECHNOLOGY TRANSFER,INTELLECTUAL PROPERTY LAW, INTELLECTUAL PROPERTY RIGHTS</code>

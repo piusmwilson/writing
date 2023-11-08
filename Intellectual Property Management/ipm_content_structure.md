@@ -22,6 +22,7 @@
 * Patents and Utility Models
 * Trademarks
 * Designs
+* Trade secret
 * Industrial Designs and Geographical Indications
 * Copyright and Related Rights
 * Traditional Knowledge, Folklore and Genetic Resources
