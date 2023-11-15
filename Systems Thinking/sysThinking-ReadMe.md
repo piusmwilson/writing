@@ -10,6 +10,10 @@ Systems thinking can be used in any area of research and has been applied to the
 
 A system is a set of interacting elements that together make up a whole so that this whole is greater than the sum of the elements. Any system has its own functions, properties, structure, laws of interaction, development, and other parameters. In order for system thinking to help us solve problems and make decisions, we need to learn to see the world as the interaction of systems.
 
+The world is a complex system with numerous subsystems and suprasystems. All parts of the system that ensure the required functioning of the system are called subsystems. Everything that is not a subsystem, but interacts with the system, is called a suprasystem. A person, a state, an army, a car, currency, education, social networks, business — all these are systems.
+
+For example, a car is a system. The engine, transmission, wheels, suspension are subsystems, and the driver, road and cargo are suprasystems.
+
 ## Methodologies of systems thinking
 
 Systems thinking uses computer simulation and a variety of diagrams and graphs to model, illustrate, and predict system behavior. Among the systems thinking tools include the following:
