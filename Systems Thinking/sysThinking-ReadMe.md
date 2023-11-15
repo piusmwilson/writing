@@ -6,6 +6,10 @@ Systems thinking is a way of making sense of the complexity of the world by look
 
 Systems thinking can be used in any area of research and has been applied to the study of medical, environmental, political, economic, human resources, and educational systems, among many others.
 
+## What is a System
+
+A system is a set of interacting elements that together make up a whole so that this whole is greater than the sum of the elements. Any system has its own functions, properties, structure, laws of interaction, development, and other parameters. In order for system thinking to help us solve problems and make decisions, we need to learn to see the world as the interaction of systems.
+
 ## Methodologies of systems thinking
 
 Systems thinking uses computer simulation and a variety of diagrams and graphs to model, illustrate, and predict system behavior. Among the systems thinking tools include the following:
