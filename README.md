@@ -25,7 +25,8 @@ Cheers!
 * [Google SRE Book Read Online](https://landing.google.com/sre/sre-book/toc/index.html)
 * [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
 * [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
-  
+* [Power up your blog with Headless Hashnode.](https://hashnode.com/headless)
+
 ## Tags
 
 ``Technical Writing``, ``Project Management``,  ``Business Technology``,  ``Business Process Management | Optimization | Improvement``,  ``Book Reviews``, ``Intellectual Property Management``, ``Business Analysis``,```Storytelling```, ```Folklore```, ```Folktale```, ```Oral History```, ```African Oral Tradition```, ```Public Speaking```, ```Narrating```
