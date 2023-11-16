@@ -26,6 +26,8 @@ Cheers!
 * [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
 * [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
 * [Power up your blog with Headless Hashnode.](https://hashnode.com/headless)
+* [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit.git)
+* [system-design-primer](https://github.com/donnemartin/system-design-primer.git)
 
 ## Tags
 
