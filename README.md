@@ -1,4 +1,4 @@
-# Technical Writing
+# Writing
 
 
 A Collection of published blogs from [Hashnode](https://piusnmuhumuza.hashnode.dev/) and other inspiring articles and documentation from Books and technology learning resources.
