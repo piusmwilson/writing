@@ -12,6 +12,17 @@ You can check out my other social forums via [LinkedIn](https://www.linkedin.com
  
 Cheers!
 
+## Interesting Resources
+
+* [Building Secure and Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html)
+* [Google Site Reliability Engineering(SRE) Books](https://sre.google/books/)
+* [Google SRE Book Github](https://github.com/euclid1990/google-sre-book)
+* [Google SRE Book Read Online](https://landing.google.com/sre/sre-book/toc/index.html)
+* 
+
+
+
+
 ## Tags
 
 ``Technical Writing``, ``Project Management``,  ``Business Technology``,  ``Business Process Management | Optimization | Improvement``,  ``Book Reviews``, ``Intellectual Property Management``, ``Business Analysis``
