@@ -23,6 +23,8 @@ Cheers!
 * [Google Site Reliability Engineering(SRE) Books](https://sre.google/books/)
 * [Google SRE Book Github](https://github.com/euclid1990/google-sre-book)
 * [Google SRE Book Read Online](https://landing.google.com/sre/sre-book/toc/index.html)
+* [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
+* [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
   
 ## Tags
 
