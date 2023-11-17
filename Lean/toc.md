@@ -2,9 +2,69 @@
 
 ## INTRODUCTION
 
-The Theory of Constraints (TOC) is a management philosophy developed by Dr. Eli Goldratt (Author), a theory is based on the principle that any system, whether it is a business, a manufacturing facility, or any other type of organization, is limited by a small number of constraints, or bottlenecks and, the key to improving the performance of a system is to identify and manage these constraints.
+The Theory of Constraints (TOC) is a management philosophy developed by Dr. Eli Goldratt (Author), based on the principle that any system, whether it is a business, a manufacturing facility, or any other type of organization, is limited by a small number of constraints, or bottlenecks and, the key to improving the performance of a system is to identify and manage these constraints.
 
-Goldratt's Theory of Constraints builds on the concept that a chain is only as strong as its weakest link. In business operations where each process involves a series of steps, the slowest step controls the pace of the whole flow of the process.
+Dr. Eliyahu Goldratt conceived the Theory of Constraints (TOC), and introduced it to a wide audience through his bestselling 1984 novel, “The Goal”. Since then, TOC has continued to evolve and develop, as a significant factor within the world of management best practices.
+
+## WHAT IS THE THEORY OF CONSTRAINTS?
+
+The Theory of Constraints is a methodology for identifying the most important limiting factor (i.e., constraint) that stands in the way of achieving a goal and then systematically improving that constraint until it is no longer the limiting factor.
+
+Theory of Constraints builds on the concept that a chain is only as strong as its weakest link. In business operations where each process involves a series of steps, the slowest step controls the pace of the whole flow of the process.
+
+Theory of Constraints inherently prioritizes improvement activities and the top priority is always the current constraint.
+
+## The Basics of Theory Of Constraints(TOC)
+
+The core concept of the Theory of Constraints follows that, every process has a single constraint and the total process throughput can only be improved when the constraint is improved. Therefore, spending time optimizing non-constraints doesn't provide significant benefits thus only improvements to the constraint matter.
+
+TOC seeks to provide precise and sustained focus on improving the current constraint until it no longer limits throughput, at which point the focus moves to the next constraint. The underlying power of TOC flows from its ability to generate a tremendously strong focus towards a single goal (profit) and to removing the principal impediment (the constraint) to achieving more of that goal. In fact, Goldratt considers focus to be the essence of TOC.
+
+## THE NATURE OF CONSTRAINTS | What are Constraints
+
+Every process has a constraint (bottleneck) and focusing improvement efforts on that constraint is the fastest and most effective path to improved profitability.
+
+Constraints are anything that prevents the organization from making progress towards its goal. In manufacturing processes, constraints are often referred to as bottlenecks.
+
+ The Theory of Constraints takes a scientific approach to improvement. It hypothesizes that every complex system, including manufacturing processes, consists of multiple linked activities, one of which acts as a constraint upon the entire system
+
+The ultimate goal of most manufacturing companies is to make a profit – both in the short term and in the long term. 
+
+The Theory of Constraints provides a powerful set of tools for helping to achieve that goal, including:
+
+**The Five Focusing Steps:** a methodology for identifying and eliminating constraints
+**The Thinking Processes:** tools for analyzing and resolving problems
+**Throughput Accounting:** a method for measuring performance and guiding management decisions
+
+### The Five Focusing Steps**
+
+The Theory of Constraints provides a specific methodology for identifying and eliminating constraints, referred to as the Five Focusing Steps. 
+The Five Focusing Steps (POOGI)
+**Focusing Step #1:** IDENTIFY the system's constraint.
+**Focusing Step #2:** EXPLOIT the constraint.
+**Focusing Step #3:** SUBORDINATE everything else to the constraint.
+**Focusing Step #4:** ELEVATE the constraint.
+**Focusing Step #5:** PREVENT INERTIA from becoming the constraint!
+
+### The Thinking Processes
+
+The Theory of Constraints includes a sophisticated problem solving methodology called the Thinking Processes. The Thinking Processes are optimized for complex systems with many interdependencies (e.g., manufacturing lines). They are designed as scientific “cause and effect” tools, which strive to first identify the root causes of undesirable effects (referred to as UDEs), and then remove the UDEs without creating new ones.
+
+The Thinking Processes are used to answer the following three questions, which are essential to TOC:
+
+What needs to be changed?
+What should it be changed to?
+What actions will cause the change?
+
+### Throughput Accounting
+
+Throughput Accounting is an alternative accounting methodology that attempts to eliminate harmful distortions introduced from traditional accounting practices – distortions that promote behaviors contrary to the goal of increasing profit in the long term.
+
+In traditional accounting, inventory is an asset (in theory, it can be converted to cash by selling it). This often drives undesirable behavior at companies – manufacturing items that are not truly needed. Accumulating inventory inflates assets and generates a “paper profit” based on inventory that may or may not ever be sold (e.g., due to obsolescence) and that incurs cost as it sits in storage. The Theory of Constraints, on the other hand, considers inventory to be a liability – inventory ties up cash that could be used more productively elsewhere.
+
+In traditional accounting, there is also a very strong emphasis on cutting expenses. The Theory of Constraints, on the other hand, considers cutting expenses to be of much less importance than increasing throughput. Cutting expenses is limited by reaching zero expenses, whereas increasing throughput has no such limitations.
+
+These and other conflicts result in the Theory of Constraints emphasizing Throughput Accounting, which uses as its core measures: Throughput, Investment, and Operating Expense.
 
 ### Some of the key concepts in TOC include;-
 
@@ -16,6 +76,7 @@ The process of managing the resources available to a system in order to ensure t
 
 **The importance of "flow" in a system.**
 Referring to the smooth flow of materials, information, and resources through a system. By ensuring that materials, information, and resources flow smoothly through a system, businesses can improve the efficiency and effectiveness of their operations.
+
 
 ## About the Author
 
@@ -29,4 +90,9 @@ He was the author of several business novels and non-fiction works, mainly on th
 * [What is the Theory of Constraints, and How Does it Compare to Lean Thinking?](https://www.lean.org/the-lean-post/articles/what-is-the-theory-of-constraints-and-how-does-it-compare-to-lean-thinking/)
 * [How Eli Goldratt Used a Novel to Explain the Theory of Constraints](https://www.sixsigmadaily.com/eli-goldratt-novel-theory-of-constraints/)
 * [Theory of Constraints — The Goal](https://medium.com/10x-curiosity/theory-of-constraints-the-goal-39e0b6975ba1)
-* The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer by Jeffrey K. Liker
+* [THEORY OF CONSTRAINTS (TOC)](https://www.leanproduction.com/theory-of-constraints/)
+* * The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer by Jeffrey K. Liker.
+
+## Tags
+
+``THEORY OF CONSTRAINTS``, ``TOC``, ``Dr. Eliyahu Goldratt``, ``Theory of Constraints (TOC)``
