@@ -6,6 +6,7 @@ datePublished: Tue Nov 28 2023 05:53:05 GMT+0000 (Coordinated Universal Time)
 cuid: clphx96lr000909jg3pmd3tdq
 slug: a-business-technology-enthusiasts-guide-to-software-engineering
 canonical: https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/softwareEngineering.md
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701150828561/4d1b1a73-5590-404e-bad3-1a2e04a1e304.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701150771619/e2d161af-da74-4e0f-a3d2-bd1ce6f44875.jpeg
 tags: software-development, software-engineering, software-testing, software-engineer, software-developer, software-quality-assurance, software-crisis, software-development-life-cycle-sdlc, nato-science-committee, the-nato-software-engineering-conferences
 
