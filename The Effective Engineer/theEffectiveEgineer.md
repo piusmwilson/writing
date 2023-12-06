@@ -1,6 +1,6 @@
 # The Effective Engineer by Edmond Lau
 
-![The Effective Engineer!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The Effective Engineer!](https://github.com/piusnmuhumuza/Writing/blob/main/The%20Effective%20Engineer/resources/theEffectiveEngineerBack.jpg "front Cover")
 
 THE EFFECTIVE ENGINEER:How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact by [Edmond Lau](https://twitter.com/edmondlau).
 
