@@ -1,8 +1,8 @@
 # The Effective Engineer by Edmond Lau
 
-THE EFFECTIVE ENGINEER:How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau.
-The Effective Bookshelf
-Palo Alto, CA
+![The Effective Engineer!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+THE EFFECTIVE ENGINEER:How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact by [Edmond Lau](https://twitter.com/edmondlau).
 
 ## Book Contents
 
