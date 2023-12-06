@@ -70,3 +70,4 @@ About the Author
 * [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 * [THE EFFECTIVE ENGINEER Website](https://www.effectiveengineer.com/)
 * [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0&ab_channel=TalksatGoogle)
+* [Soft-Copy of the Book](https://github.com/piusnmuhumuza/Writing/blob/main/The%20Effective%20Engineer/resources/TheEffectiveEngineer.pdf)
