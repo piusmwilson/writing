@@ -109,11 +109,11 @@ About the Author
 
 ## Additional Reading Resources
 
-* [Book Summary: The Effective Engineer by Edmond Lau](https://rvunabandi.medium.com/book-summary-the-effective-engineer-by-edmond-lau-2554303b18b8)
-* [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau](https://www.goodreads.com/en/book/show/25238425)
-* [The Effective Engineer by Edmond Lau](https://medium.com/@renaldi/the-effective-engineer-by-edmond-lau-4353311f57cd)
-* [The Effective Engineer Book by Edmond Lau](https://www.effectiveengineer.com/book)
-* [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-* [THE EFFECTIVE ENGINEER Website](https://www.effectiveengineer.com/)
-* [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0&ab_channel=TalksatGoogle)
-* [Soft-Copy of the Book](https://github.com/piusnmuhumuza/Writing/blob/main/The%20Effective%20Engineer/resources/TheEffectiveEngineer.pdf)
+- [Book Summary: The Effective Engineer by Edmond Lau](https://rvunabandi.medium.com/book-summary-the-effective-engineer-by-edmond-lau-2554303b18b8)
+- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau](https://www.goodreads.com/en/book/show/25238425)
+- [The Effective Engineer by Edmond Lau](https://medium.com/@renaldi/the-effective-engineer-by-edmond-lau-4353311f57cd)
+- [The Effective Engineer Book by Edmond Lau](https://www.effectiveengineer.com/book)
+- [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+- [THE EFFECTIVE ENGINEER Website](https://www.effectiveengineer.com/)
+- [The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0&ab_channel=TalksatGoogle)
+- [Soft-Copy of the Book](https://github.com/piusnmuhumuza/Writing/blob/main/The%20Effective%20Engineer/resources/TheEffectiveEngineer.pdf)
