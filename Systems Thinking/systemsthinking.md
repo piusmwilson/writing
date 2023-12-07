@@ -106,3 +106,4 @@ In systems thinking, the analogy of an iceberg is used. The iceberg model is a t
 * [Thinking INSIDE the Box: how to make the difference by making it differently](https://medium.com/design-for-innovation/thinking-inside-the-box-how-to-make-the-difference-by-making-it-differently-f88a052384be)
 * [How the systems thinking approach can help you build an amazing team](https://hypercontext.com/blog/management-skills/systems-thinking-2)
 * [Positive and Negative Feedback Loops in Biology](https://www.albert.io/blog/positive-negative-feedback-loops-biology/)
+* [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU&ab_channel=awalstreetjournal)
