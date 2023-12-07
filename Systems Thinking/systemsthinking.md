@@ -92,6 +92,7 @@ In systems thinking, the analogy of an iceberg is used. The iceberg model is a t
 
 ## Reading Reference
 
+* [Systems one: An introduction to systems thinking by Draper Kauffman](https://github.com/piusnmuhumuza/Writing/blob/main/Systems%20Thinking/docs/Systems_one_An_introduction_to_systems.pdf)
 * [Problem Solving Desperately Needs Systems Thinking](https://medium.com/disruptive-design/problem-solving-desperately-needs-systems-thinking-607d34e4fc80)
 * [How to think about systems instead of problems? — Thinking in Systems — Book review](https://medium.com/@attilaevanics/how-to-think-about-systems-instead-of-problems-book-review-be4bd61bf83a)
 * [Three Rules of Solving Problems](https://medium.com/@yonatanzunger/three-rules-of-solving-problems-355944d34c9a)
