@@ -59,8 +59,6 @@ Acknowledgments
 Notes
 About the Author
 
-![The Effective Engineer!](https://github.com/piusnmuhumuza/Writing/blob/main/The%20Effective%20Engineer/resources/theEffectiveEngineerBack.jpg "Back Cover")
-
 ## Additional Reading Resources
 
 * [Book Summary: The Effective Engineer by Edmond Lau](https://rvunabandi.medium.com/book-summary-the-effective-engineer-by-edmond-lau-2554303b18b8)
