@@ -67,10 +67,7 @@ There will always be more effectiveness techniques to learn. But what [Edmond La
 The book examines and describes what it means to be an effective engineer, and distills the key
 lessons that [Edmond Lau](https://twitter.com/edmondlau) has learned over the years and also supplements the framework with actionable and tested strategies that any Engineer can use right away to become more effective.
 
-Despite being a book for software engineers, you won’t find a single line of
-code in The Effective Engineer. 
-
-Whether you want to increase your impact on the world, get promoted more quickly, waste less time grinding away at mindless tasks, or work fewer hours without sacrificing results, [The Effective Engineer](https://www.effectiveengineer.com/book) although not a comprehensive guide for everything that can
+Despite being a book for software engineers, you won’t find a single line of code in The Effective Engineer. Whether you want to increase your impact on the world, get promoted more quickly, waste less time grinding away at mindless tasks, or work fewer hours without sacrificing results, [The Effective Engineer](https://www.effectiveengineer.com/book) although not a comprehensive guide for everything that can
 help you grow as an Engineer, it will give you the tools you need, and provide you with a consistent framework—leverage—for navigating which skills might be good investments of your time.
 
 Teaching and mentoring are [Edmond Lau](https://twitter.com/edmondlau)'s passions, and through this book he shares what he's learned with the rest of us.
