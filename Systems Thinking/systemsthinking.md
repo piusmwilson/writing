@@ -20,6 +20,14 @@ The world is a complex system with numerous subsystems and suprasystems. All par
 
 For example, a car is a system. The engine, transmission, wheels, suspension are subsystems, and the driver, road and cargo are suprasystems.
 
+## Suprasystems
+
+A suprasystem, also known as a supersystem, is a system that is made up of other systems; that is, it is a larger system that integrates or contains small systems. These are known as minor systems or subsystems.
+
+Suprasystems usually have a direct influence on the activities that are executed in the systems they host. A practical example of a suprasystem is the human body. This is made up of the digestive system (which would be a subsystem) and, in turn, the digestive system is made up of the stomach (another subsystem).
+
+
+
 ## Methodologies of systems thinking
 
 Systems thinking uses computer simulation and a variety of diagrams and graphs to model, illustrate, and predict system behavior. Among the systems thinking tools include the following:
