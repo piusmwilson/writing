@@ -14,6 +14,8 @@ To understand Systems Thinking, we need to approach everything with a big-pictur
 
 A system is a set of interacting elements that together make up a whole so that this whole is greater than the sum of the elements. Any system has its own functions, properties, structure, laws of interaction, development, and other parameters. In order for system thinking to help us solve problems and make decisions, we need to learn to see the world as the interaction of systems.
 
+A set of independent things that are interconnected in a way that causes them to produce their own patterns overtime.
+
 The world is a complex system with numerous subsystems and suprasystems. All parts of the system that ensure the required functioning of the system are called subsystems. Everything that is not a subsystem, but interacts with the system, is called a suprasystem. A person, a state, an army, a car, currency, education, social networks, business — all these are systems.
 
 For example, a car is a system. The engine, transmission, wheels, suspension are subsystems, and the driver, road and cargo are suprasystems.
