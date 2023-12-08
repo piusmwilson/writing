@@ -5,13 +5,18 @@ Sub Definition: (n.) A subordinate; a subaltern.
 Supra Definition: (adv.) Over; above; before; also, beyond; besides; -- much used as a prefix.
 
 Content
+Systems
+The Hierarchy of Systems
 Characteristics of a suprasystem
+Introduction to Complex Systems
+Understanding Suprasystems
 Examples of suprasystems
 1- Business suprasystem
 2- Continental suprasystem
 3- Technological suprasystem
 4- Human anatomical suprasystem
 5- The solar system
+6- Social Systems
 Reference
 
 ## Systems
@@ -41,7 +46,7 @@ The prefix supra- refers to what is on something else or is superior. A system ,
 In this framework, a suprasystem is called a system that is made up of other systems . This means that a suprasystem (also called a supersystem ) is a larger system made up of smaller systems, which in turn may contain subsystems .
 
 
-## Suprasystems
+## Understanding Suprasystems
 
 A suprasystem, also known as a supersystem, is a system that is made up of other systems; that is, it is a larger system that integrates or contains small systems. These are known as minor systems or subsystems.
 
