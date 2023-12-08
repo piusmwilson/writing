@@ -26,7 +26,9 @@ A suprasystem, also known as a supersystem, is a system that is made up of other
 
 Suprasystems usually have a direct influence on the activities that are executed in the systems they host. A practical example of a suprasystem is the human body. This is made up of the digestive system (which would be a subsystem) and, in turn, the digestive system is made up of the stomach (another subsystem).
 
+## Systems thinking
 
+[Systems thinking](https://en.wikipedia.org/wiki/Systems_thinking) is a way of making sense of the complexity of the world by looking at it in terms of wholes and relationships rather than by splitting it down into its parts.
 
 ## Methodologies of systems thinking
 
@@ -39,7 +41,9 @@ The simulation model, which simulates the interaction of system elements over ti
 
 ## History of systems thinking
 
-Systems thinking originated in 1956 when Professor Jay Forrester founded the Systems Dynamic Group at MIT's Sloan School of Management.
+> Systems thinking originated in 1956 when Professor Jay Forrester founded the Systems Dynamic Group at MIT's Sloan School of Management.- [A Systems thinking Article by Ben Lutkevich.](https://www.techtarget.com/searchcio/definition/systems-thinking#:~:text=Systems%20thinking%20originated%20in%201956,MIT's%20Sloan%20School%20of%20Management.)
+
+
 
 ## The 6 Fundamental Concepts of Systems Thinking
 
@@ -103,6 +107,7 @@ In systems thinking, the analogy of an iceberg is used. The iceberg model is a t
 ## Reading Reference
 
 * [Systems one: An introduction to systems thinking by Draper Kauffman](https://github.com/piusnmuhumuza/Writing/blob/main/Systems%20Thinking/docs/Systems_one_An_introduction_to_systems.pdf)
+* [the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 * [Problem Solving Desperately Needs Systems Thinking](https://medium.com/disruptive-design/problem-solving-desperately-needs-systems-thinking-607d34e4fc80)
 * [How to think about systems instead of problems? — Thinking in Systems — Book review](https://medium.com/@attilaevanics/how-to-think-about-systems-instead-of-problems-book-review-be4bd61bf83a)
 * [Three Rules of Solving Problems](https://medium.com/@yonatanzunger/three-rules-of-solving-problems-355944d34c9a)
@@ -118,3 +123,5 @@ In systems thinking, the analogy of an iceberg is used. The iceberg model is a t
 * [How the systems thinking approach can help you build an amazing team](https://hypercontext.com/blog/management-skills/systems-thinking-2)
 * [Positive and Negative Feedback Loops in Biology](https://www.albert.io/blog/positive-negative-feedback-loops-biology/)
 * [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU&ab_channel=awalstreetjournal)
+* [Systems And Systems Thinking](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/systems-and-systems-thinking)
+* 
