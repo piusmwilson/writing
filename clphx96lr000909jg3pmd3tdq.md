@@ -16,7 +16,7 @@ tags: software-development, software-engineering, software-testing, software-eng
 
 Back in the 1950s, when the dependency on computers increased, the software needed to manage them also grew and thus Software Engineering/Development became a necessity for businesses and users all over the world.
 
-> [“Our civilization depends critically on software, and we have a dangerously low degree of professionalism in the computer fields.” — Bjarne Stroustrup](https://github.com/piusnmuhumuza/bootcamp/blob/master/Business%20Technology%20Engineering%20Notes/Software%20Engineering/resources/BjarneStroustrup.pdf)
+> [“Our civilization depends critically on software, and we have a dangerously low degree of professionalism in the computer fields.” — Bjarne Stroustrup](https://github.com/piusnmuhumuza/bootcamp/blob/master/Business/resources/BjarneStroustrup.pdf)
 
 In the last 63 years (since 1960), the amount of software produced and used by modern society increased greatly necessitating a need to set principles, objectives, and standards, when estimating the necessary resources (like cost and human capital) for developing quality software to meet customer requirements and manage their expectations.
 
