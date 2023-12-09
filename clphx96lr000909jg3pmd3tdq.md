@@ -5,7 +5,7 @@ seoDescription: "Basic Software Engineering definitions, concepts, and practices
 datePublished: Tue Nov 28 2023 05:53:05 GMT+0000 (Coordinated Universal Time)
 cuid: clphx96lr000909jg3pmd3tdq
 slug: a-business-technology-enthusiasts-guide-to-software-engineering
-canonical: https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/softwareEngineering.md
+canonical: https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701150828561/4d1b1a73-5590-404e-bad3-1a2e04a1e304.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701150771619/e2d161af-da74-4e0f-a3d2-bd1ce6f44875.jpeg
 tags: software-development, software-engineering, software-testing, software-engineer, software-developer, software-quality-assurance, software-crisis, software-development-life-cycle-sdlc, nato-science-committee, the-nato-software-engineering-conferences
@@ -16,7 +16,7 @@ tags: software-development, software-engineering, software-testing, software-eng
 
 Back in the 1950s, when the dependency on computers increased, the software needed to manage them also grew and thus Software Engineering/Development became a necessity for businesses and users all over the world.
 
-> [“Our civilization depends critically on software, and we have a dangerously low degree of professionalism in the computer fields.” — Bjarne Stroustrup]( https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/BjarneStroustrup.pdf)
+> [“Our civilization depends critically on software, and we have a dangerously low degree of professionalism in the computer fields.” — Bjarne Stroustrup](https://github.com/piusnmuhumuza/bootcamp/blob/master/Business/resources/BjarneStroustrup.pdf)
 
 In the last 63 years (since 1960), the amount of software produced and used by modern society increased greatly necessitating a need to set principles, objectives, and standards, when estimating the necessary resources (like cost and human capital) for developing quality software to meet customer requirements and manage their expectations.
 
@@ -54,7 +54,7 @@ The professional practice of Software Engineering requires technical proficiency
 
 The term **‘Software Engineering’** first was used in the late 1950s and early 1960s, where ‘The Concept of Software Engineering was first discussed at the 1968 NATO Science Committee in (Garmisch) Germany.
 
-The NATO Science Committee sponsored two conferences ([The NATO Software Engineering Conferences]( http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)) on _Software Engineering_ in 1968 and 1969, which as generally believed, marked the official start of the profession giving the field its initial boost as the term _'Software Engineering'_ was suggested at these conferences to discuss the ['software crisis'](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/theSoftwareCrisis.md), a name given to the difficulties encountered in developing large, complex systems in the 1960s (through the 1970s -80s).
+The NATO Science Committee sponsored two conferences ([The NATO Software Engineering Conferences]( http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)) on _Software Engineering_ in 1968 and 1969, which as generally believed, marked the official start of the profession giving the field its initial boost as the term _'Software Engineering'_ was suggested at these conferences to discuss the ['software crisis'](https://github.com/piusnmuhumuza/bootcamp/blob/master/Business%20Technology%20Engineering%20Notes/Software%20Engineering/theSoftwareCrisis.md), a name given to the difficulties encountered in developing large, complex systems in the 1960s (through the 1970s -80s).
 
 Around this period, a lot of software projects ran over budget and schedule, some causing property damage while a few led to the loss of life.
 
