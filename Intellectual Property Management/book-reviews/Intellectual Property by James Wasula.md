@@ -1,6 +1,7 @@
-# Book Review: Intellectual Property by James Wasula.
+# Book Review: Intellectual Property by James Wasula
 
-# Background
+## Background
+
 I’m an IT Engineer and as you can imagine, being passionate about all things technology and working in the Technology space requires being aware of the technical and non-technical aspects within the space. I’m enthusiastic about Business Technology Trends, IT-related Public Policy, ISO standards and Business Law among other things.
 
 Growing up, I wanted to do law after losing interest in the military but as time went on, I ended up pursuing Information Technology. Nonetheless, that love for law keeps drawing me to various Business Law, Policy, and Intellectual Property Law related reading materials for which I've now chosen to curate and have in my possession books; —

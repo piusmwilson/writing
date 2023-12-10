@@ -82,3 +82,8 @@ The reality still remains that there must be deliberate attempt by both private 
 * [Employee Inventions: The Extent of Patent Protection of Employees in Uganda](https://ucu-ipwatchdog.blogspot.com/2014/12/employee-inventions-extent-of-patent.html)
 * [The Dilemma Of the Employer-Employee ownership of a patent](https://ucu-ipwatchdog.blogspot.com/2014/11/the-dilemma-of-employer-employee.html)
   
+## Keywords  
+
+INTELLECTUAL PROPERTY MANAGEMENT, INTELLECTUAL PROPERTY, PATENTS, COPYRIGHT, DESIGN, TRADEMARKS, 
+GEOGRAPHICAL INDICATIONS, TRADE SECRETS, UNFAIR COMPETITION,
+ RESEARCH AND DEVELOPMENT, TECHNOLOGY TRANSFER,INTELLECTUAL PROPERTY LAW, INTELLECTUAL PROPERTY RIGHTS
