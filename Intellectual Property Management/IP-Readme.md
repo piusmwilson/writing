@@ -1,4 +1,0 @@
-# Intellectual Property
-
-## Purpose
-

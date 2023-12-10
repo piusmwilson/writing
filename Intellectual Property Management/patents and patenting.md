@@ -4,6 +4,13 @@
 
 ## Patents
 
+* Patent Drafting
+* What do Patents Protect?
+* Patenting Cost and Value
+* When to Apply for Patents?
+* Ensuring Inventions are Properly Protected
+* Licensing and Patent Exploitation
+
 ## What is Patenting
 
 ## What can be patented?
