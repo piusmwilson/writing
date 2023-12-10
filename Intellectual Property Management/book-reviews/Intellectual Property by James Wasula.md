@@ -18,7 +18,7 @@ Please make use of the relevant links therein to explore more on the various sub
 
 ## The Book
 
-![ip.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1658846180267/4PbcyR2hg.jpg align="left")
+![ip.jpg](<https://github.com/piusnmuhumuza/Writing/blob/main/Intellectual%20Property%20Management/resources/ipBookCover.jpg> align="left")
 
 **Title:** Intellectual Property: Strategy for Small and Medium Enterprises in Developing Countries.
 
