@@ -10,9 +10,7 @@ This a space where I write about Business, Technology, African literature both o
 
 Feel free to share your comments, thoughts, suggestions and insightful recommendations for resources worth checking out and sharing about.
 
-Business, Technology, African literature, Entrepreneurship, project management, product management, software engineering, software project management, Startups, Business Analysis, Business Development 
-
-Storytelling 
+Business, Technology, African literature, Entrepreneurship, project management, product management, software engineering, software project management, Startups, Business Analysis, Business Development  
 
 Storytelling in Africa has been manifested in many ways and was used to serve many purposes. It was used to interpret the universe, resolve natural and physical phenomena, teach morals, maintain cultural values, pass on methods of survival, and to praise God.
 
