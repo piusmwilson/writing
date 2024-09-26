@@ -4,9 +4,7 @@ A Collection of published blogs from [Hashnode](https://piusnmuhumuza.hashnode.d
 
 ## Storytelling
 
-Dear Reader
-
-This a space where I write about Business, Technology, African literature both oral & written, as well as occasional book reviews on amazing reads I found insightful, entertaining and worth recommending.
+Dear Reader, this a space where I write about Business, Technology, African literature both oral & written, as well as occasional book reviews on amazing reads I found insightful, entertaining and worth recommending.
 
 Feel free to share your comments, thoughts, suggestions and insightful recommendations for resources worth checking out and sharing about.
 
