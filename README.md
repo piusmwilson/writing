@@ -11,16 +11,11 @@ This is a collection of storytelling material researched, curated and created fo
 The main purpose of all writing here is purely for research, publication and learning purposes. All and any comments, advice or suggestions are welcome.
 I strongly believe as a Tech Engineer learning starts with sharing what you've learned and benefited from other contributor's resources.
 
-You can check out my other social forums via [LinkedIn](https://www.linkedin.com/in/piusnmuhumuza/), [Personal Twitter](https://twitter.com/piusnmuhumuza), [Books Review & Recommendations discussions](https://www.goodreads.com/piusnmuhumuza), And Instagram,- [Personal](https://www.instagram.com/piusnmuhumuzaa/)
-
 Cheers!
 
 ## Interesting Resources
 
-* [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
-* [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
-* [Power up your blog with Headless Hashnode.](https://hashnode.com/headless)
-* [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit.git)
+
 
 ## Tags
 
